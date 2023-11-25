@@ -4,3 +4,10 @@
 pnpm install
 
 pnpm run dev
+
+
+### tauri
+
+pnpm tauri dev
+
+pnpm tauri build
