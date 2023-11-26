@@ -1,10 +1,12 @@
 ![Image 示例](https://github.com/vinistudy/autoImglist/blob/main/index.jpg)
+
+![Image 示例](https://github.com/vinistudy/autoImglist/blob/main/tauri.jpg)
+
 ### 安装
 
 pnpm install
 
 pnpm run dev
-
 
 ### tauri
 

@@ -56,7 +56,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
 
         <div class="des-con">
-          <span>冬雷震震，下雨雪</span>
+          <span>冬雷震震，夏雨雪</span>
         </div>
       </div>
     </div>
