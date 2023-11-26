@@ -20,7 +20,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
 
         <div class="des-con">
-          <span>给我一个理由忘记</span>
+          <span>我欲与君相知</span>
         </div>
       </div>
     </div>
@@ -32,7 +32,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
 
         <div class="des-con">
-          <span>给我一个理由忘记</span>
+          <span>长命无绝衰</span>
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
 
         <div class="des-con">
-          <span>给我一个理由忘记</span>
+          <span>山无棱，江水为竭</span>
         </div>
       </div>
     </div>
@@ -56,7 +56,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
 
         <div class="des-con">
-          <span>给我一个理由忘记</span>
+          <span>冬雷震震</span>
         </div>
       </div>
     </div>
@@ -68,7 +68,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
 
         <div class="des-con">
-          <span>给我一个理由忘记</span>
+          <span>夏雨雪，天地合</span>
         </div>
       </div>
     </div>
@@ -80,7 +80,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
 
         <div class="des-con">
-          <span>给我一个理由忘记</span>
+          <span>乃敢与君绝</span>
         </div>
       </div>
     </div>
